@@ -296,3 +296,11 @@ header {
 	margin-right: 1em;
 }
 
+.secrect-text {
+	color: var(--background-color);
+	transition: all 0.3s ease;
+}
+.secrect-text:hover {
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
