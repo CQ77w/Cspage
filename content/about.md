@@ -6,4 +6,7 @@ const eleventyNavigation = {
 ---
 # About
 
-这里是CQ的记事本~
+这里是CC的记事本~
+
+contact me at <a href="mailto:likeableilol23@gmail.com">@CC's Mail</a>
+

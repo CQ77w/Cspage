@@ -1,11 +1,10 @@
 export default {
-	title: "My Blog pages",
-	// url: "https://example.com/",
-	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	title: "CC's Blog",
+	language: "en, zh",
+	description: "I am writing about my kind-of weird experiences",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "CC",
+		email: "likeableilol23@gmail.com",
+		url: "https://cspage-brr.pages.dev/about/"
 	}
 }
